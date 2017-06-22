@@ -1,0 +1,17 @@
+{
+	"category" : "Pdf",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"text",
+		"form",
+		"filename",
+		"pageNumber" ],
+	"name" : "PdfExtract",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

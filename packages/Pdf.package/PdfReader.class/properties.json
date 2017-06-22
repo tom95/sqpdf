@@ -1,0 +1,14 @@
+{
+	"category" : "Pdf",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "PdfReader",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

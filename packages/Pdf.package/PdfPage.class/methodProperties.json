@@ -1,0 +1,16 @@
+{
+	"class" : {
+		"open:page:" : "TB 6/22/2017 11:44" },
+	"instance" : {
+		"drawOn:" : "TB 5/25/2017 15:55",
+		"extractActiveSelection" : "TB 5/26/2017 09:36",
+		"filename" : "TB 5/25/2017 14:42",
+		"filename:" : "TB 5/25/2017 14:42",
+		"fixedSelection" : "TB 5/25/2017 15:55",
+		"handlesMouseDown:" : "TB 5/25/2017 14:36",
+		"handlesMouseMove:" : "TB 5/25/2017 14:36",
+		"mouseDown:" : "TB 5/25/2017 14:37",
+		"mouseMove:" : "TB 5/25/2017 15:47",
+		"mouseUp:" : "TB 5/25/2017 15:56",
+		"pageNumber" : "TB 5/25/2017 14:41",
+		"pageNumber:" : "TB 5/25/2017 14:41" } }
